@@ -472,8 +472,8 @@ main{
 }
 .team .member{
     margin: 0 40px;
-    height: 180px;
-    width: 180px;
+    height: 185px;
+    width: 185px;
     display: flex;
     justify-content: center;
     flex-direction: column;
