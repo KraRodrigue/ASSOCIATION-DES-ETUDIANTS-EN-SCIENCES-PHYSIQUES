@@ -383,6 +383,7 @@ main{
     transition: .3s ease-in-out;
     text-transform: capitalize;
     background: var(--bleu-principal);
+    width:auto;
 }
 .btn1:hover{
     background: var(--bleu-fonce);
